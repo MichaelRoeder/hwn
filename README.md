@@ -1,13 +1,16 @@
 # HWN to c:geo
 
-[Harzer Wandernadel](https://www.harzer-wandernadel.de/) locations that can be importated to [c:geo](https://github.com/cgeo/cgeo).
+[Harzer Wandernadel](https://www.harzer-wandernadel.de/) locations that can be importated to [c:geo](https://github.com/cgeo/cgeo). It contains the 222 stamp locations and some locations of special stamps. If a stamp belongs to one of the following groups, it is written in the stamps description:
+* Harzer Grenzweg
+* Harzer Hexenstieg
+* Harzer Steiger
+* Goethe im Harz
 
 ## Usage
 
-1. Download the locations as GPX data from https://www.harzer-wandernadel.de/stempelstellen/gps-download/.
+1. Download the [hwn.gpx](https://raw.githubusercontent.com/MichaelRoeder/hwn/main/hwn.gpx) file with the locations of the stamps (the special stamps are already included).
 2. Import it to c:geo as gpx file.
 3. Enjoy your hiking tour :smile:
-
 
 ## Creation of the file
 
