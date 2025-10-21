@@ -1,4 +1,34 @@
-  <wpt lat="51.885694" lon="10.646278">
+  <wpt lat=52.0107617" lon="10.6367872">
+    <name>HWN9900 Grenzturm Rhoden</name>
+    <desc>Sonderstempel "Grenzturm Rhoden"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9900 Grenzturm Rhoden</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Grenzturm Rhoden"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Grenzturm Rhoden"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+<wpt lat="51.885694" lon="10.646278">
     <name>HWN9901 Jungborn</name>
     <desc>Sonderstempel "Jungborn"</desc>
     <sym>Geocache</sym>
@@ -75,6 +105,246 @@
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Sonderstempel "Dreiländerstein"</groundspeak:short_description>
       <groundspeak:long_description html="True">Sonderstempel "Dreiländerstein"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;p&gt;Der "Dreiländerstein" wurde im Jahre 1749 gesetzt und befindet sich zwischen Hohegeiß, Rothesütte und Benneckenstein. Hier trafen die Länder Herzogtum Braunschweig "HB", Königreich Preußen "HB", und das Gräflich Wernigeröder Forstgebiet "GW" aufeinander. Während der Teilung Deutschlands bildete der Stein einen Grenzpunkt zwischen der Bundesrepublik Deutschland und der DDR. Heute markiert der Stein die Grenze zwischen den Bundesländern Thüringen, Sachsen-Anhalt und Niedersachsen.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  
+  <wpt lat="51.8681527" lon="10.8774519">
+    <name>HWN9905 Glasmanufaktur Derenburg "Hüttengarten"</name>
+    <desc>Sonderstempelstelle Glasmanufaktur Derenburg "Hüttengarten"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9905 Glasmanufaktur Derenburg "Hüttengarten"</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Glasmanufaktur Derenburg "Hüttengarten"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Glasmanufaktur Derenburg "Hüttengarten"</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  
+  <wpt lat="52.1254679" lon="11.6295848">
+    <name>HWN9906 Museum für Naturkunde in Magdeburg</name>
+    <desc>Sonderstempelstelle Museum für Naturkunde in Magdeburg (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9906 Museum für Naturkunde in Magdeburg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Museum für Naturkunde in Magdeburg (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Museum für Naturkunde in Magdeburg (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.844897" lon="10.781204">
+    <name>HWN9908 "Kleiner Harz" Wernigerode</name>
+    <desc>Sonderstempelstelle "Kleiner Harz" Wernigerode (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9908 "Kleiner Harz" Wernigerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle "Kleiner Harz" Wernigerode (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle "Kleiner Harz" Wernigerode (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.58172910918299" lon="10.775665925593328">
+    <name>HWN9909 Ahornpark Ilfeld</name>
+    <desc>Sonderstempelstelle Ahornpark Ilfeld</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9909 Ahornpark Ilfeld</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Ahornpark Ilfeld</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Ahornpark Ilfeld</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.869973" lon="10.563140">
+    <name>HWN9910 Baumwipfelpfad Harz in Bad Harzburg</name>
+    <desc>Sonderstempelstelle Baumwipfelpfad Harz in Bad Harzburg (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9910 Baumwipfelpfad Harz in Bad Harzburg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Baumwipfelpfad Harz in Bad Harzburg (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Baumwipfelpfad Harz in Bad Harzburg (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.740671" lon="10.893810">
+    <name>HWN9915 Seilhängebrücke "Titan-RT"</name>
+    <desc>Sonderstempelstelle Baumwipfelpfad Harz in Bad Harzburg (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9915 Seilhängebrücke "Titan-RT"</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Seilhängebrücke "Titan-RT" (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Seilhängebrücke "Titan-RT" (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.839507" lon="10.773055">
+    <name>HWN9916 Transall-Sonderstempel Luftfahrtmuseum Wernigerode</name>
+    <desc>Transall-Sonderstempel Luftfahrtmuseum Wernigerode (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9916 Transall-Sonderstempel Luftfahrtmuseum Wernigerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Transall-Sonderstempel Luftfahrtmuseum Wernigerode (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Transall-Sonderstempel Luftfahrtmuseum Wernigerode (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.725277" lon="10.254232">
+    <name>HWN9918 Museum im Ritterhaus Osterode</name>
+    <desc>Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9918 Museum im Ritterhaus Osterode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -536,4 +806,5 @@
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
+
   </wpt>
