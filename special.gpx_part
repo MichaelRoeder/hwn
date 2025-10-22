@@ -357,6 +357,336 @@
       <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
+  <wpt lat="51.819698" lon="10.916048">
+    <name>HWN9919 "Waldlehrpfad Heimburg"</name>
+    <desc>Sonderstempelstelle "Waldlehrpfad Heimburg"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9919 "Waldlehrpfad Heimburg"</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle "Waldlehrpfad Heimburg"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle "Waldlehrpfad Heimburg"</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7452678" lon="10.6156683">
+    <name>HWN9921 Rodelhaus Braunlage</name>
+    <desc>Sonderstempelstelle Rodelhaus Braunlage</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9921 Rodelhaus Braunlage</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Rodelhaus Braunlage</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Rodelhaus Braunlage</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.8330128" lon="10.7845470">
+    <name>HWN9922 Tourist Information Wernigerode</name>
+    <desc>Sonderstempelstelle Tourist Information Wernigerode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9922 Tourist Information Wernigerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Tourist Information Wernigerode</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Tourist Information Wernigerode</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.8330128" lon="10.7845470">
+    <name>HWN9923 Märchenweg Wernigerode</name>
+    <desc>Sonderstempelstelle Märchenweg Wernigerode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9923 Märchenweg Wernigerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Märchenweg Wernigerode</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Märchenweg Wernigerode</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.701898" lon="10.868598">
+    <name>HWN9924 Pullmann City Harz</name>
+    <desc>Sonderstempelstelle Pullmann City Harz (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9924 Pullmann City Harz</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Pullmann City Harz (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Pullmann City Harz (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7008085" lon="10.9452240">
+    <name>HWN9925 Gasthaus Windenhütte</name>
+    <desc>Sonderstempelstelle Gasthaus Windenhütte</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9925 Gasthaus Windenhütte</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Gasthaus Windenhütte</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Gasthaus Windenhütte</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.689672" lon="10.348587">
+    <name>HWN9927 Auerhuhngehege Lonau</name>
+    <desc>Sonderstempelstelle Auerhuhngehege Lonau</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9927 Auerhuhngehege Lonau</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Auerhuhngehege Lonau</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Auerhuhngehege Lonau</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7008085" lon="10.9452240">
+    <name>HWN9928 Hasseröder Ferienpark</name>
+    <desc>Sonderstempelstelle Hasseröder Ferienpark</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9928 Hasseröder Ferienpark</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Hasseröder Ferienpark</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Hasseröder Ferienpark</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7077403" lon="10.6021668">
+    <name>HWN9932 Waldcafé Forellenteich</name>
+    <desc>Sonderstempelstelle Waldcafé Forellenteich</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9932 Waldcafé Forellenteich</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Waldcafé Forellenteich</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Waldcafé Forellenteich</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.514507" lon="10.786399">
+    <name>HWN9935 Park Hohenrode</name>
+    <desc>Sonderstempelstelle Park Hohenrode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9935 Park Hohenrode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Park Hohenrode</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Park Hohenrode</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.6327802" lon="10.5840644">
+    <name>HWN9939 Bienenpfad Wieda</name>
+    <desc>Sonderstempelstelle Bienenpfad Wieda</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9939 Bienenpfad Wieda</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Bienenpfad Wieda</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Bienenpfad Wieda</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
   
   <wpt lat="51.858433" lon="10.659483">
     <name>HWN9941 Borkenkäferpfad</name>
@@ -555,6 +885,66 @@
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Skywalk am Sonnenstein</groundspeak:short_description>
       <groundspeak:long_description html="True">Skywalk am Sonnenstein (dauerhafte Sonderstempelstelle)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.8707420" lon="10.5699117">
+    <name>HWN9948 BaumSchwebeBahn</name>
+    <desc>Sonderstempelstelle BaumSchwebeBahn (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9948 BaumSchwebeBahn</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle BaumSchwebeBahn (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle BaumSchwebeBahn (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.8327198" lon="10.7834986">
+    <name>HWN9950 Harzmuseum Wernigerode</name>
+    <desc>Sonderstempelstelle Harzmuseum Wernigerode (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9950 Harzmuseum Wernigerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Harzmuseum Wernigerode (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Harzmuseum Wernigerode (kostenpflichtig)</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -806,5 +1196,35 @@
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
-
   </wpt>
+
+  <wpt lat="51.489438" lon="11.960508">
+    <name>HWN9992 Botanischer Garten Halle (Saale)</name>
+    <desc>Sonderstempelstelle Botanischer Garten Halle (Saale) (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9992 Botanischer Garten Halle (Saale)</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempelstelle Botanischer Garten Halle (Saale) (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Botanischer Garten Halle (Saale) (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
