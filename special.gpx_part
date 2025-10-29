@@ -1408,7 +1408,7 @@
     </cgeo:cacheExtension>
   </wpt>
 
-  <wpt lat="51.7461194" lon="10.6960907">
+  <wpt lat="51.7902592" lon="10.6411808">
     <name>HWN Urwaldstieg</name>
     <desc>Sonderstempel Urwaldstieg</desc>
     <sym>Geocache</sym>
@@ -1587,6 +1587,7 @@
       <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
 
 
 
