@@ -538,6 +538,36 @@
     </cgeo:cacheExtension>
   </wpt>
 
+  <wpt lat="51.7676078" lon="10.8150334">
+    <name>HWN9926 Schausägewerk Ehrt</name>
+    <desc>Sonderstempel "Schausägewerk Ehrt"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9926 Schausägewerk Ehrt</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Schausägewerk Ehrt"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Schausägewerk Ehrt"</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
   <wpt lat="51.689672" lon="10.348587">
     <name>HWN9927 Auerhuhngehege Lonau</name>
     <desc>Sonderstempelstelle Auerhuhngehege Lonau</desc>
@@ -598,6 +628,36 @@
     </cgeo:cacheExtension>
   </wpt>
 
+  <wpt lat="51.7461194" lon="10.6960907">
+    <name>HWN9929/1933 Waldbad Elend</name>
+    <desc>Sonderstempel "Waldbad Elend" (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9929/1933 Waldbad Elend</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Waldbad Elend" (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Waldbad Elend" (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
   <wpt lat="51.7077403" lon="10.6021668">
     <name>HWN9932 Waldcafé Forellenteich</name>
     <desc>Sonderstempelstelle Waldcafé Forellenteich</desc>
@@ -615,6 +675,66 @@
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Sonderstempelstelle Waldcafé Forellenteich</groundspeak:short_description>
       <groundspeak:long_description html="True">Sonderstempelstelle Waldcafé Forellenteich</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7643482" lon="10.6618093">
+    <name>HWN9933 Stammhaus Schierker Feuerstein</name>
+    <desc>Sonderstempel "Stammhaus Schierker Feuerstein"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9933 Stammhaus Schierker Feuerstein</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Stammhaus Schierker Feuerstein"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Stammhaus Schierker Feuerstein"</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7643482" lon="10.6618093">
+    <name>HWN9934 Argenta Wohnpark</name>
+    <desc>Sonderstempel "Argenta Wohnpark"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9934 Argenta Wohnpark</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Argenta Wohnpark"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Argenta Wohnpark"</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -928,6 +1048,36 @@
     </cgeo:cacheExtension>
   </wpt>
 
+  <wpt lat="51.7461194" lon="10.6960907">
+    <name>HWN9949 Oder Minigolf in Bad Lauterberg</name>
+    <desc>Sonderstempel "Oder Minigolf in Bad Lauterberg" (kostenpflichtig)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9949 Oder Minigolf in Bad Lauterberg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "Oder Minigolf in Bad Lauterberg" (kostenpflichtig)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "Oder Minigolf in Bad Lauterberg" (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
   <wpt lat="51.8327198" lon="10.7834986">
     <name>HWN9950 Harzmuseum Wernigerode</name>
     <desc>Sonderstempelstelle Harzmuseum Wernigerode (kostenpflichtig)</desc>
@@ -1137,6 +1287,36 @@
       <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
+  <wpt lat="51.7461194" lon="10.6960907">
+    <name>HWN9957 200 Jahre Kneipp</name>
+    <desc>Sonderstempel "200 Jahre Kneipp"</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9957 200 Jahre Kneipp</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel "200 Jahre Kneipp"</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel "200 Jahre Kneipp"</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
   
   <wpt lat="51.823912" lon="10.962599">
     <name>HWN9958 Pastorenstein</name>
@@ -1227,5 +1407,186 @@
       <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
+  <wpt lat="51.7461194" lon="10.6960907">
+    <name>HWN Urwaldstieg</name>
+    <desc>Sonderstempel Urwaldstieg</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN Urwaldstieg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Urwaldstieg</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Urwaldstieg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.6616778" lon="10.8808491">
+    <name>HWN Stabkirche Stiege</name>
+    <desc>Sonderstempel Stabkirche Stiege</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN Stabkirche Stiege</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Stabkirche Stiege</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Stabkirche Stiege</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.7358450" lon="10.6616422">
+    <name>HWN Heiermann4future</name>
+    <desc>Sonderstempel Heiermann4future</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN Heiermann4future</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Heiermann4future</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Heiermann4future</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.8590290" lon="10.3319697">
+    <name>HWN9805 Partner Cozy Cabins</name>
+    <desc>Sonderstempel Partner Cozy Cabins</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9805 Partner Cozy Cabins</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Partner Cozy Cabins</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Partner Cozy Cabins</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.851962" lon="10.333500">
+    <name>HWN9808 Partner Hahnenklee Ferienchalets</name>
+    <desc>Sonderstempel Partner Cozy Cabins</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN9808 Partner Hahnenklee Ferienchalets</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Partner Hahnenklee Ferienchalets</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Partner Hahnenklee Ferienchalets</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
+  <wpt lat="51.9374016" lon="10.9504261">
+    <name>HWN Klopstockquelle</name>
+    <desc>Sonderstempel Klopstockquelle</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN Klopstockquelle</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Sonderstempel Klopstockquelle</groundspeak:short_description>
+      <groundspeak:long_description html="True">Sonderstempel Klopstockquelle</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+
 
 
