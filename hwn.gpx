@@ -26,7 +26,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -56,7 +55,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -88,7 +86,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -118,7 +115,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -270,10 +266,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -304,7 +296,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -334,7 +325,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -396,9 +386,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -428,7 +415,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
@@ -520,7 +506,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -551,7 +536,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -581,7 +565,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -672,7 +655,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
@@ -944,7 +926,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1125,7 +1106,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1155,7 +1135,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
@@ -1187,7 +1166,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1217,7 +1195,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
@@ -1249,9 +1226,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1281,9 +1255,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -1407,7 +1378,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -1589,7 +1559,6 @@
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1679,7 +1648,6 @@
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
@@ -1834,9 +1802,6 @@ Trautenstein</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1870,9 +1835,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1903,9 +1865,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -1935,7 +1894,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
@@ -2117,9 +2075,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -2179,7 +2134,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
@@ -2391,7 +2345,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -2451,9 +2404,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -2575,7 +2525,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127984</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -2605,9 +2554,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -2699,7 +2645,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -2760,7 +2705,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -2790,9 +2734,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -2914,7 +2855,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3035,7 +2975,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3095,9 +3034,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -3219,7 +3155,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3279,7 +3214,6 @@ Riede&lt;br/&gt;Teil des Harzer Steigers&lt;br/&gt;Teil des Bernsteinkönigs</gr
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
@@ -3464,7 +3398,6 @@ Steinbergalm</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3525,7 +3458,6 @@ Steinbergalm</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3556,7 +3488,6 @@ Steinbergalm</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3586,7 +3517,6 @@ Steinbergalm</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
@@ -3771,7 +3701,6 @@ Burgberg</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3865,7 +3794,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3895,7 +3823,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
@@ -3927,9 +3854,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3960,7 +3884,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -3990,7 +3913,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
@@ -4052,7 +3974,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4082,9 +4003,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -4176,10 +4094,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4209,9 +4123,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -4302,9 +4213,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -4426,9 +4334,6 @@ Schalker Graben&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4491,7 +4396,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
@@ -4584,7 +4488,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4615,7 +4518,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4645,7 +4547,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
@@ -4767,10 +4668,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -4800,7 +4697,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -4891,7 +4787,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -5043,7 +4938,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5073,7 +4967,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -5105,7 +4998,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5136,7 +5028,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5166,7 +5057,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
@@ -5228,7 +5118,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5289,9 +5178,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5321,7 +5207,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
@@ -5383,9 +5268,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5415,7 +5297,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
@@ -5447,7 +5328,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5477,7 +5357,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
@@ -5509,9 +5388,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5541,9 +5417,6 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -5577,9 +5450,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -5641,8 +5511,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5702,8 +5570,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -5765,7 +5631,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127984</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5795,7 +5660,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>9997</cgeo:assignedEmoji>
@@ -5856,7 +5720,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
@@ -5948,7 +5811,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -5979,7 +5841,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6009,7 +5870,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
@@ -6071,9 +5931,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6134,7 +5991,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>66</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6164,10 +6020,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -6199,7 +6051,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>127984</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6229,7 +6080,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>66</cgeo:assignedEmoji>
@@ -6261,7 +6111,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>83</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6291,9 +6140,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -6384,9 +6230,6 @@ Tannen&lt;br/&gt;Teil des Selketal-Stiegs&lt;br/&gt;Teil des Bernsteinkönigs</g
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
@@ -6631,7 +6474,6 @@ Schautafel RVH</groundspeak:long_description>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
-    </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
@@ -6661,7 +6503,6 @@ Schautafel RVH</groundspeak:long_description>
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
@@ -6695,7 +6536,6 @@ Oderteich (NPH)&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
@@ -6756,7 +6596,6 @@ Oderteich (NPH)&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
@@ -6847,7 +6686,6 @@ Oderteich (NPH)&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
       <gsak:IsPremium>false</gsak:IsPremium>
       <gsak:FavPoints>-1</gsak:FavPoints>
       <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
       <cgeo:assignedEmoji>128142</cgeo:assignedEmoji>
