@@ -346,7 +346,7 @@
       <groundspeak:country>Germany</groundspeak:country>
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)</groundspeak:short_description>
-      <groundspeak:long_description html="True">Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)</groundspeak:long_description>
+      <groundspeak:long_description html="True">Sonderstempelstelle Museum im Ritterhaus Osterode (kostenpflichtig)&lt;br/&gt;Teil des Harzer Hexenstiegs</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -356,7 +356,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>128176</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>9885</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
 
