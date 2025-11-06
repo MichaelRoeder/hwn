@@ -1,14 +1,29 @@
 # HWN to c:geo
 
 [Harzer Wandernadel](https://www.harzer-wandernadel.de/) locations that can be importated to [c:geo](https://github.com/cgeo/cgeo). It contains the 222 stamp locations and some locations of special stamps. If a stamp belongs to one of the following groups, it is written in the stamps description:
-* Harzer Grenzweg
-* Harzer Hexenstieg
-* Harzer Steiger
-* Goethe im Harz
+
+| Stempeltyp | Symbol | Link | OSM |
+|---|---|---|---|
+| Harzer Wandernadel | 🥾 | [🔗](https://www.harzer-wandernadel-shop.de/Wanderpass-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/148007#map=10/51.7026/10.7865) |
+| Altenauer Herzweg | 💓 | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Herzweg-Altenau) | [🔗](https://www.openstreetmap.org/relation/17730084#map=14/51.80453/10.44753) |
+| Baudensteig | 🏡 | [🔗](https://www.harzinfo.de/erlebnisse/wandern/fernwanderungen-durch-den-harz/harzer-baudensteig) | [🔗](https://www.openstreetmap.org/relation/14139496#map=11/51.7153/10.4865) |
+| Bernsteinkönig | B | [🔗](https://bernstein-hotels.de/aktivitaeten-bernstein-schlosshotel-ballenstedt/) |  |
+| Burgen & Schlösser | 🏰 | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Harzer-Geschichtsorte-Burgen-Schloesser-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/9820471#map=10/51.8282/11.0089) |
+| Goethe im Harz | ✍ | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Goethe-im-Harz-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14137225#map=10/51.7236/10.6562) |
+| Grenzweg | 🚩 | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Harzer-Grenzweg-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14137757#map=11/51.7963/10.6284) |
+| Harzer Hexenstieg | ⚝ | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Harzer-Hexen-Stieg-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14137773#map=10/51.7532/10.6359) |
+| Harzer Steiger | 💎 | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Harzer-Steiger-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14137782#map=10/51.7056/10.7833) |
+| Huy-Fallstein | H | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Huy-Fallstein-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/17927261#map=11/51.9885/10.8331) |
+| Klosterwanderweg | 🕀 | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Klosterwanderweg-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14139494#map=10/51.8421/10.7808) |
+| Lutherweg | L | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Natur-Erleben-am-Lutherweg-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/14139495#map=10/51.5524/11.2707) |
+| Selketal-Stieg | S | [🔗](https://www.harzer-wandernadel-shop.de/Begleitheft-Selketal-Stieg-DIN-A6) | [🔗](https://www.openstreetmap.org/relation/15902555#map=11/51.6679/11.1011) |
+| Sonderstempel | 🏅 |  | [🔗](https://www.openstreetmap.org/relation/13056506#map=9/51.812/10.941) |
+| Kostenpflichtige Sonderstempel | 💰 |  | [🔗](https://www.openstreetmap.org/relation/13056506#map=9/51.812/10.941) |
+| Teil mehrerer Hefte | ⭐ | | |
 
 ## Usage
 
-1. Download the [hwn.gpx](https://raw.githubusercontent.com/MichaelRoeder/hwn/main/hwn.gpx) file with the locations of the stamps (the special stamps are already included).
+1. Download the [hwn.gpx](https://raw.githubusercontent.com/MichaelRoeder/hwn/main/hwn.gpx) file with the locations of the stamps. In addition, you can load the other gpx files for additional stamps of other books.
 2. Import it to c:geo as gpx file.
 3. Enjoy your hiking tour :smile:
 
@@ -41,4 +56,23 @@ and replace all occurrences with
     * Harzer Hexenstieg: replace `<groundspeak:name>HWN(009|013|017|022|040|041|042|052|060|062|063|069|123|128|133|136|137|140|155|178)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description html="True">([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description html="True">\4&lt;br/&gt;Teil des Harzer Hexenstiegs</groundspeak:long_description>`
     * Harzer Steiger: replace `<groundspeak:name>HWN(037|039|060|061|085|091|107|113|126|127|128|133|137|146|155|172|175|179|190|193|194|217|222)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description html="True">([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description html="True">\4&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>`
     * Goethe im Harz: replace `<groundspeak:name>HWN(009|013|014|031|038|041|042|062|069|071|078|080|085|088|091|095|099|101|105|116|117|129|132|136|140|144|155|188)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description html="True">([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description html="True">\4&lt;br/&gt;Teil von "Goethe im Harz"</groundspeak:long_description>`
-7. Add the special stamp locations from `special.gpx_part` to the file.
+    * Burgen &amp; Schlösser: replace `<groundspeak:name>HWN(080|084|187|197|200|201)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil von Burgen &amp; Schlösser</groundspeak:long_description>`
+    * Selketal-Stiegs: replace `<groundspeak:name>HWN(055|172|173|175|176|177|179|180|181|183|185|195|197|200|203|204|207)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Selketal-Stiegs</groundspeak:long_description>`
+    * Bernsteinkönig: replace `<groundspeak:name>HWN(061|180|181|199|200|202|204|207)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Bernsteinkönigs</groundspeak:long_description>`
+    * Quedlinburg: replace `<groundspeak:name>HWN(183|184|185|186|196)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Begleitheft Festjahr Quedlinburg</groundspeak:long_description>`
+    * Lutherweg: replace `<groundspeak:name>HWN(215|216|219)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>`
+    * Altenauer Herzweg: replace `<groundspeak:name>HWN149([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Altenauer Herzwegs</groundspeak:long_description>`
+    * Baudensteig: replace `<groundspeak:name>HWN(101|115|130|144|150|151)([^<]*</groundspeak:name>([^<]*<groundspeak:[^l][^<]*</groundspeak:)*[^<]*)<groundspeak:long_description([^<]*)</groundspeak:long_description>` with `<groundspeak:name>HWN\1\2<groundspeak:long_description\4&lt;br/&gt;Teil des Baudensteigs</groundspeak:long_description>`
+7. Add symbols
+* replace `<cgeo:assignedEmoji>0</cgeo:assignedEmoji>` with `<cgeo:assignedEmoji>129406</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Altenauer Herzwegs[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>128681</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Baudensteigs[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>127969</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Bernstein[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>66</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil von Burgen[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>127984</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil von "Goethe im Harz"[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>9997</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Harzer Grenzwegs[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>128681</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Harzer Hexenstiegs[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>9885</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Harzer Steigers[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>128142</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Lutherwegs[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>76</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil des Selketal[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>83</cgeo:assignedEmoji>`
+* replace `(<groundspeak:long_description[^<]*Teil[^<]*Teil[^<]*<\/groundspeak:long_description>)([^<]*)((<\/?[^c][^<]*)+)(<cgeo:cacheExtension>[^<]*)<cgeo:assignedEmoji>[^<]*<\/cgeo:assignedEmoji>` with `\1\2\3\4\5<cgeo:assignedEmoji>11088</cgeo:assignedEmoji>`

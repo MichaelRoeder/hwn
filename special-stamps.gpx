@@ -16,7 +16,7 @@
       <groundspeak:country>Germany</groundspeak:country>
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Sonderstempel "Grenzturm Rhoden"</groundspeak:short_description>
-      <groundspeak:long_description html="True">Sonderstempel "Grenzturm Rhoden"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:long_description html="True">Sonderstempel "Grenzturm Rhoden"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;br/&gt;Teil von Huy-Fallstein</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -26,7 +26,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
 
@@ -56,7 +56,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -86,7 +86,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -116,7 +116,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -1590,3 +1590,4 @@
     </cgeo:cacheExtension>
   </wpt>
 </gpx>
+
