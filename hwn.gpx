@@ -4478,8 +4478,7 @@ Morgenbrodstal&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description>
       <groundspeak:country>Germany</groundspeak:country>
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Kleine Oker</groundspeak:short_description>
-      state>
-      <groundspeak:short_description html="False">Kleine Oker</groundspeak:<groundspeak:long_description&lt;br/&gt;Teil des Altenauer Herzwegs</groundspeak:long_description>
+      <groundspeak:long_description html="False">Kleine Oker&lt;br/&gt;Teil des Altenauer Herzwegs</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
