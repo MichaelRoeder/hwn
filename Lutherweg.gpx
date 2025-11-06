@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.0" creator="c:geo - http://www.cgeo.org/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
+  <wpt lat="51.5373926" lon="10.9284735">
+    <name>HWN LS01 Wolfsmühle Rodishain</name>
+    <desc>Wolfsmühle Rodishain</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS01 Wolfsmühle Rodishain</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Wolfsmühle Rodishain</groundspeak:short_description>
+      <groundspeak:long_description html="True">Wolfsmühle Rodishain&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.5798366" lon="11.0632109">
+    <name>HWN LS04 Feldflur Hayn</name>
+    <desc>Feldflur Hayn</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS04 Feldflur Hayn</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Feldflur Hayn</groundspeak:short_description>
+      <groundspeak:long_description html="True">Feldflur Hayn&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.5738248" lon="11.1566324">
+    <name>HWN LS05 Naturerlebnisstation Dankerode „Am Heuweg“</name>
+    <desc>Naturerlebnisstation Dankerode „Am Heuweg“</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS05 Naturerlebnisstation Dankerode „Am Heuweg“</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Naturerlebnisstation Dankerode „Am Heuweg“</groundspeak:short_description>
+      <groundspeak:long_description html="True">Naturerlebnisstation Dankerode „Am Heuweg“&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51." lon="10.">
+    <name>HWN LS07 Naturerlebnisstation Wippra „Am Kleebeck“</name>
+    <desc>Naturerlebnisstation Wippra „Am Kleebeck“</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS07 Naturerlebnisstation Wippra „Am Kleebeck“</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Naturerlebnisstation Wippra „Am Kleebeck“</groundspeak:short_description>
+      <groundspeak:long_description html="True">Naturerlebnisstation Wippra „Am Kleebeck“&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51." lon="10.">
+    <name>HWN LS08 Schutzhütte Baumrode</name>
+    <desc>Schutzhütte Baumrode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS01 Schutzhütte Baumrode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Schutzhütte Baumrode</groundspeak:short_description>
+      <groundspeak:long_description html="True">Schutzhütte Baumrode&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.5872468" lon="11.4280862">
+    <name>HWN LS09 Naturerlebnisstation Möllendorf „Am Brandberg“</name>
+    <desc>Naturerlebnisstation Möllendorf „Am Brandberg“</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS09 Naturerlebnisstation Möllendorf „Am Brandberg“</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Naturerlebnisstation Möllendorf „Am Brandberg“</groundspeak:short_description>
+      <groundspeak:long_description html="True">Naturerlebnisstation Möllendorf „Am Brandberg“&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.5174371" lon="11.6129512">
+    <name>HWN LS10 „Kalte Stelle“ Unterrißdorf</name>
+    <desc>„Kalte Stelle“ Unterrißdorf</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN LS10 „Kalte Stelle“ Unterrißdorf</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">„Kalte Stelle“ Unterrißdorf</groundspeak:short_description>
+      <groundspeak:long_description html="True">„Kalte Stelle“ Unterrißdorf&lt;br/&gt;Teil des Lutherwegs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+</gpx>

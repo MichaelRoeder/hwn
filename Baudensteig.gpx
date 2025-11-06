@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.0" creator="c:geo - http://www.cgeo.org/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
+  <wpt lat="51.6310091" lon="10.4633994">
+    <name>HWN BS Berggaststätte Hausberg</name>
+    <desc>Berggaststätte Hausberg</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN BS Berggaststätte Hausberg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Berggaststätte Hausberg</groundspeak:short_description>
+      <groundspeak:long_description html="True">Berggaststätte Hausberg&lt;br/&gt;Teil des Baudensteigs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.6215563" lon="10.5269113">
+    <name>HWN BS Ravensberg Baude „Berghof“</name>
+    <desc>Ravensberg Baude „Berghof“</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN BS Ravensberg Baude „Berghof“</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Ravensberg Baude „Berghof“</groundspeak:short_description>
+      <groundspeak:long_description html="True">Ravensberg Baude „Berghof“&lt;br/&gt;Teil des Baudensteigs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.6620066" lon="10.5758822">
+    <name>HWN BS Waldgasthof Bahnhof Stöberhai</name>
+    <desc>Waldgasthof Bahnhof Stöberhai</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN BS Waldgasthof Bahnhof Stöberhai</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Waldgasthof Bahnhof Stöberhai</groundspeak:short_description>
+      <groundspeak:long_description html="True">Waldgasthof Bahnhof Stöberhai&lt;br/&gt;Teil des Baudensteigs</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>127969</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+</gpx>

@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.0" creator="c:geo - http://www.cgeo.org/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
+  <wpt lat="51.9005790" lon="11.0421099">
+    <name>HWN K01 Kloster Burchardi</name>
+    <desc>Kloster Burchardi</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K01 Kloster Burchardi</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Burchardi</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Burchardi&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8963923" lon="11.0489047">
+    <name>HWN K02 Dom/Schatz, Halberstadt</name>
+    <desc>Dom/Schatz, Halberstadt</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K02 Dom/Schatz, Halberstadt</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Dom/Schatz, Halberstadt</groundspeak:short_description>
+      <groundspeak:long_description html="True">Dom/Schatz, Halberstadt&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.7245605" lon="11.1359228">
+    <name>HWN K03 Stiftskirche Sankt Cyriakus</name>
+    <desc>Stiftskirche Sankt Cyriakus</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K03 Stiftskirche Sankt Cyriakus</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Stiftskirche Sankt Cyriakus</groundspeak:short_description>
+      <groundspeak:long_description html="True">Stiftskirche Sankt Cyriakus&lt;br/&gt;Teil des Begleitheft Klosterwanderweg&lt;br/&gt;Teil des Begleitheft Festjahr Quedlinburg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.7873652" lon="11.1337087">
+    <name>HWN K04 Kloster St. Marien</name>
+    <desc>Kloster St. Marien (Kloster auf dem Münzenberg)</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K04 Kloster St. Marien</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster St. Marien (Kloster auf dem Münzenberg)</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster St. Marien (Kloster auf dem Münzenberg)&lt;br/&gt;Teil des Begleitheft Klosterwanderweg&lt;br/&gt;Teil des Begleitheft Festjahr Quedlinburg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.7559631" lon="11.0497520">
+    <name>HWN K05 Kloster Wendhusen zu Thale</name>
+    <desc>Kloster Wendhusen zu Thale</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K05 Kloster Wendhusen zu Thale</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Wendhusen zu Thale</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Wendhusen zu Thale&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.7878683" lon="10.9543585">
+    <name>HWN K06 Bergkirche St. Bartholomäus</name>
+    <desc>Bergkirche St. Bartholomäus</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K06 Bergkirche St. Bartholomäus</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Bergkirche St. Bartholomäus</groundspeak:short_description>
+      <groundspeak:long_description html="True">Bergkirche St. Bartholomäus&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8063381" lon="10.9127015">
+    <name>HWN K07 Kloster Michaelstein</name>
+    <desc>Kloster Michaelstein</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K07 Kloster Michaelstein</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Michaelstein</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Michaelstein&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8336112" lon="10.7429149">
+    <name>HWN K08 Kloster Himmelpforte</name>
+    <desc>Kloster Himmelpforte</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K08 Kloster Himmelpforte</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Himmelpforte</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Himmelpforte&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8372651" lon="10.7883288">
+    <name>HWN K09 St. Johanniskirche</name>
+    <desc>St. Johanniskirche</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K09 St. Johanniskirche</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">St. Johanniskirche</groundspeak:short_description>
+      <groundspeak:long_description html="True">St. Johanniskirche&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8453380" lon="10.7295701">
+    <name>HWN K10 St. Laurentius, Darlingerode</name>
+    <desc>St. Laurentius, Darlingerode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K10 St. Laurentius, Darlingerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">St. Laurentius, Darlingerode</groundspeak:short_description>
+      <groundspeak:long_description html="True">St. Laurentius, Darlingerode&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8556275" lon="10.7154476">
+    <name>HWN K11 Kloster Drübeck</name>
+    <desc>Kloster Drübeck</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K11 Kloster Drübeck</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Drübeck</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Drübeck&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.8603752" lon="10.6785687">
+    <name>HWN K12 Kloster Ilsenburg</name>
+    <desc>Kloster Ilsenburg</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K12 Kloster Ilsenburg</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Ilsenburg</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Ilsenburg&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.9593202" lon="10.5399749">
+    <name>HWN K13 Kloster Wöltingerode</name>
+    <desc>Kloster Wöltingerode</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K13 Kloster Wöltingerode</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Wöltingerode</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Wöltingerode&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.9375826" lon="10.4474310">
+    <name>HWN K14 Kloster Grauhof</name>
+    <desc>Kloster Grauhof</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K14 Kloster Grauhof</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Kloster Grauhof</groundspeak:short_description>
+      <groundspeak:long_description html="True">Kloster Grauhof&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.9093489" lon="10.4256237">
+    <name>HWN K15 Neuwerkkirche Goslar</name>
+    <desc>Neuwerkkirche Goslar</desc>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>HWN K15 Neuwerkkirche Goslar</groundspeak:name>
+      <groundspeak:placed_by>HWN</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False">Neuwerkkirche Goslar</groundspeak:short_description>
+      <groundspeak:long_description html="True">Neuwerkkirche Goslar&lt;br/&gt;Teil des Begleitheft Klosterwanderweg</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>128320</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+</gpx>
