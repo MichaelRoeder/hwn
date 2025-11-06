@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
   <wpt lat=52.0107617" lon="10.6367872">
     <name>HWN9900 Grenzturm Rhoden</name>
     <desc>Sonderstempel "Grenzturm Rhoden"</desc>
@@ -14,7 +16,7 @@
       <groundspeak:country>Germany</groundspeak:country>
       <groundspeak:state></groundspeak:state>
       <groundspeak:short_description html="False">Sonderstempel "Grenzturm Rhoden"</groundspeak:short_description>
-      <groundspeak:long_description html="True">Sonderstempel "Grenzturm Rhoden"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:long_description html="True">Sonderstempel "Grenzturm Rhoden"&lt;br/&gt;Teil des Harzer Grenzwegs&lt;br/&gt;Teil von Huy-Fallstein</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -24,7 +26,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
 
@@ -54,7 +56,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -84,7 +86,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -114,7 +116,7 @@
       <gsak:GcNote></gsak:GcNote>
     </gsak:wptExtension>
     <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
+      <cgeo:assignedEmoji>128681</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
   
@@ -1587,7 +1589,5 @@
       <cgeo:assignedEmoji>127941</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-
-
-
+</gpx>
 
