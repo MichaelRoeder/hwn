@@ -87,7 +87,7 @@
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51." lon="10.">
+  <wpt lat="51.5601757" lon="11.2836422">
     <name>HWN LS07 Naturerlebnisstation Wippra „Am Kleebeck“</name>
     <desc>Naturerlebnisstation Wippra „Am Kleebeck“</desc>
     <sym>Geocache</sym>
@@ -116,7 +116,7 @@
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51." lon="10.">
+  <wpt lat="51.5770438" lon="11.3830545">
     <name>HWN LS08 Schutzhütte Baumrode</name>
     <desc>Schutzhütte Baumrode</desc>
     <sym>Geocache</sym>
@@ -203,4 +203,5 @@
       <cgeo:assignedEmoji>76</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
 </gpx>
