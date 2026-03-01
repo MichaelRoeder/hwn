@@ -406,33 +406,5 @@
       <cgeo:assignedEmoji>72</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51." lon="10.">
-    <name>HWN HF01 NEWNAME</name>
-    <desc>NEWNAME</desc>
-    <sym>Geocache</sym>
-    <type>Geocache|User defined cache</type>
-    <groundspeak:cache id="" available="True" archived="False">
-      <groundspeak:name>HWN HF01 NEWNAME</groundspeak:name>
-      <groundspeak:placed_by>HWN</groundspeak:placed_by>
-      <groundspeak:owner></groundspeak:owner>
-      <groundspeak:type>User defined cache</groundspeak:type>
-      <groundspeak:container>Unknown</groundspeak:container>
-      <groundspeak:difficulty>0</groundspeak:difficulty>
-      <groundspeak:terrain>0</groundspeak:terrain>
-      <groundspeak:country>Germany</groundspeak:country>
-      <groundspeak:state></groundspeak:state>
-      <groundspeak:short_description html="False">NEWNAME</groundspeak:short_description>
-      <groundspeak:long_description html="True">NEWNAME&lt;br/&gt;Teil von Huy-Fallstein</groundspeak:long_description>
-      <groundspeak:encoded_hints></groundspeak:encoded_hints>
-    </groundspeak:cache>
-    <gsak:wptExtension>
-      <gsak:Watch>false</gsak:Watch>
-      <gsak:IsPremium>false</gsak:IsPremium>
-      <gsak:FavPoints>-1</gsak:FavPoints>
-      <gsak:GcNote></gsak:GcNote>
-    </gsak:wptExtension>
-    <cgeo:cacheExtension>
-      <cgeo:assignedEmoji>72</cgeo:assignedEmoji>
-    </cgeo:cacheExtension>
-  </wpt>
+
 </gpx>
