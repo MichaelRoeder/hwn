@@ -116,7 +116,7 @@
       <cgeo:assignedEmoji>81</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51." lon="10.">
+  <wpt lat="51.7557136" lon="11.1122029">
     <name>HWN RuQ15 Aholzwarte</name>
     <desc>Aholzwarte</desc>
     <sym>Geocache</sym>
@@ -174,4 +174,5 @@
       <cgeo:assignedEmoji>81</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
 </gpx>
