@@ -1036,8 +1036,8 @@
       <groundspeak:terrain>0</groundspeak:terrain>
       <groundspeak:country>Germany</groundspeak:country>
       <groundspeak:state></groundspeak:state>
-      <groundspeak:short_description html="False">Gasthaus Armeleuteberg</groundspeak:short_description>
-      <groundspeak:long_description html="True">Gasthaus Armeleuteberg</groundspeak:long_description>
+      <groundspeak:short_description html="False">Gasthaus Armeleuteberg + HWN9923 Märchenweg Wernigerode</groundspeak:short_description>
+      <groundspeak:long_description html="False">Gasthaus Armeleuteberg + HWN9923 Märchenweg Wernigerode</groundspeak:long_description>
       <groundspeak:encoded_hints></groundspeak:encoded_hints>
     </groundspeak:cache>
     <gsak:wptExtension>
@@ -6692,6 +6692,7 @@ Oderteich (NPH)&lt;br/&gt;Teil des Harzer Steigers</groundspeak:long_description
   </wpt>
   
 </gpx>
+
 
 
 
