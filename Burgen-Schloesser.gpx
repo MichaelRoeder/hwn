@@ -348,7 +348,7 @@
       <cgeo:assignedEmoji>127984</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51.9600026" lon="11.0010893">
+  <wpt lat="52.010263" lon="11.029381">
     <name>HWN BS19 HF20 Burg Schlanstedt</name>
     <desc>Burg Schlanstedt</desc>
     <sym>Geocache</sym>
@@ -667,7 +667,7 @@
       <cgeo:assignedEmoji>127984</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="51.9428737" lon="10.8241404">
+  <wpt lat="52.013948" lon="10.866014">
     <name>HWN BS30 HF14 Wasserschloss Westerburg</name>
     <desc>Wasserschloss Westerburg</desc>
     <sym>Geocache</sym>
@@ -754,4 +754,5 @@
       <cgeo:assignedEmoji>11088</cgeo:assignedEmoji>
     </cgeo:cacheExtension>
   </wpt>
+
 </gpx>
